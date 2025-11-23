@@ -16,22 +16,6 @@
 
 ---
 
-## 🔗 Portfolio & Projects
-Check my portfolio here: [noumanahmed.vercel.app](https://noumanahmed.vercel.app/)  
-
-### 🌟 Featured Projects
-- **SwatVenue (FYP)** – Full-featured venue management platform with roles (Admin/Owner/User), bookings, responsive design, and animations.  
-- **AI SaaS Generator** – Generate images, titles, and articles using AI prompts; includes authentication & premium plans.  
-- **Vocation Management System (Airbnb Clone)** – Property listing, cloud storage, and Atlas database integration.  
-
-### 💻 Other Full-Stack Projects
-Code Review Platform (Gemini API), Book Store, Chat Application, Github Clone  
-
-### 🖥️ Frontend & Mini Projects
-Snake Game, Quiz App, Weather App, Word to PDF Converter, HTML/CSS/JS Landing Pages, React Receipt Generator  
-
----
-
 ## 💻 Tech Stack
 
 ### Frontend
@@ -62,13 +46,27 @@ Snake Game, Quiz App, Weather App, Word to PDF Converter, HTML/CSS/JS Landing Pa
 
 ---
 
+## 🔗 Portfolio & Projects
+Check my portfolio here: [noumanahmed.vercel.app](https://noumanahmed.vercel.app/)  
+
+### 🌟 Featured Projects
+- **SwatVenue (FYP)** – Full-featured venue management platform with roles (Admin/Owner/User), bookings, responsive design, and animations.  
+- **AI SaaS Generator** – Generate images, titles, and articles using AI prompts; includes authentication & premium plans.  
+- **Vocation Management System (Airbnb Clone)** – Property listing, cloud storage, and Atlas database integration.  
+
+### 💻 Other Full-Stack Projects
+Code Review Platform (Gemini API), Book Store, Chat Application, Github Clone  
+
+### 🖥️ Frontend & Mini Projects
+Snake Game, Quiz App, Weather App, Word to PDF Converter, HTML/CSS/JS Landing Pages, React Receipt Generator  
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NoumanAhmed01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <!-- Snake Game Animation -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NoumanAhmed01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=NoumanAhmed01&theme=dark&show_icons=true&count_private=true)  
