@@ -5,7 +5,7 @@
 📧 **Email Me:** noumanahmed.cs@gmail.com for collaboration, projects, or anything else.  
 
 - 🔭 **I’m currently working on:** My Final Year Project – SwatVenue, a full-featured venue management system  
-- 🌱 **I’m currently learning:** Next.js, Docker, Deployment, Data Analysis  
+- 🌱 **I’m currently learning:** Next.js, Docker, Deployment
 - 👯 **I’m looking to collaborate on:** Full-stack and AI-powered web applications  
 - 🤔 **I’m looking for help with:** Advanced React patterns and backend optimization  
 - 💬 **Ask me about:** MERN stack, AI SaaS, Full-Stack Development, Frontend Animations  
@@ -60,29 +60,25 @@ Code Review Platform (Gemini API), Book Store, Chat Application, Github Clone
 ### 🖥️ Frontend & Mini Projects
 Snake Game, Quiz App, Weather App, Word to PDF Converter, HTML/CSS/JS Landing Pages, React Receipt Generator  
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NoumanAhmed01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Snake Game Animation -->
+---
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=NoumanAhmed01&theme=dark&show_icons=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanAhmed01&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanAhmed01&theme=dark&layout=compact)-->
 
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NoumanAhmed01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nouman-ahmed01/)  
