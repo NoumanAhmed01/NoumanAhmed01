@@ -10,7 +10,6 @@
 - 🤔 **I’m looking for help with:** Advanced React patterns and backend optimization  
 - 💬 **Ask me about:** MERN stack, AI SaaS, Full-Stack Development, Frontend Animations  
 - 📫 **How to reach me:** noumanahmed.cs@gmail.com  
-- 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I combine AI APIs with full-stack projects to create smarter apps  
  
 
